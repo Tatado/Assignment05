@@ -1,0 +1,11 @@
+1.
+Multiple inheritance means that a subclass can inherit from two or more superclasses. C++ allows multiple inheritance.
+2.
+The delegation pattern is an object-oriented design pattern that allows object composition to achieve the same code reuse as inheritance.
+3.
+ Composition is a concept in object-oriented programming that models the relationship between two classes. 
+4.
+A bound method is the one which is dependent on the instance of the class as the first argument. 
+It passes the instance as the first argument which is used to access the variables and functions.
+5.
+This feature is mostly intended to avoid namespace collisions in instances, not to restrict access to names in general.
